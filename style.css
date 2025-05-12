@@ -6,3 +6,6 @@ html, body {
     display: block;
   }
   
+  h1 {padding-left:20px;
+     font-size: 2.5rem;
+     font-family:"PPEditorialOld-Regular";}
